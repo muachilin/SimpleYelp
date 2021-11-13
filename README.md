@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* [x] Changethe theme color to match Yelp
+* [x] Change the theme color to match Yelp
 * [x] Add Yelp logo at the bottom of the app
 
 ## Video Walkthrough
@@ -28,7 +28,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Need to get familiar the library, Retrofit and Glide.
 
 ## License
 
